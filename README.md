@@ -5,4 +5,4 @@ That is, whether a patient will die in the hospital within 30 days.
 
 There are 1,834 patients in the training dataset and each with a unique ID and 47 attributes.
 
-I implement several models, such as XGboost, DecisionTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, support vector machine, LogisticRegression, KNeighborsClassifier, AdaBoostClassifier, ComplementNB, MultinomialNB, GaussianNB, provide by sklearn library.
+I implement several models with randomized cross validation, such as XGboost, DecisionTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, support vector machine, LogisticRegression, KNeighborsClassifier, AdaBoostClassifier, ComplementNB, MultinomialNB, GaussianNB, provide by sklearn library.
